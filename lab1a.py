@@ -1,10 +1,14 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: matthew kennedy
+# Date: jan 15, 2025. 
 # Purpose: Create a variable, check its type and print the variable.
 # Usage: ./lab1a.py
+
+x = 2
+type x
+print (x)
 
 # TO DO 1: Creating and using varibales
 # create a variable called message.
